@@ -1,6 +1,6 @@
 # preview-image
 
-> this is a preview-image
+> A Vue.js project
 
 ## Build Setup
 
